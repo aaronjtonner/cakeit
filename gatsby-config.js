@@ -31,7 +31,7 @@ module.exports = {
     {
       resolve: `gatsby-source-wordpress`,
       options: {
-        url: `http://cakeit.local/graphql`,
+        url: `http://eloquent-jang-bb0cd0.netlify.app/graphql`,
       },
     },
     `gatsby-plugin-styled-components`,
